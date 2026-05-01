@@ -1,4 +1,4 @@
-# Its Wrap Skill  活干完了！
+# 活干完了！
 
 [English](README.md) | 中文版
 
