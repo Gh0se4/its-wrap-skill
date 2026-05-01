@@ -72,10 +72,6 @@ cp -r its-wrap-skill/.skill ~/.claude/skills/its-wrap
 
 ## 使用
 
-详见 [USAGE.md](USAGE.md)。
-
-### 基本用法
-
 描述你的研究并请求产品决策交付：
 
 ```
@@ -125,7 +121,6 @@ Claude 会调用 Its Wrap 并生成结构化交付包。
 | [README.md](README.md) | 英文说明 |
 | [README.zh-CN.md](README.zh-CN.md) | 本文件 — 中文说明 |
 | [INSTALL.md](INSTALL.md) | 详细安装说明 |
-| [USAGE.md](USAGE.md) | 使用示例和工作流 |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 如何贡献 |
 | [.skill/SKILL.md](.skill/SKILL.md) | 完整 Skill 规范 |
 

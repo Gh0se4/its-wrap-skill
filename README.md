@@ -72,10 +72,6 @@ cp -r its-wrap-skill/.skill ~/.claude/skills/its-wrap
 
 ## Usage
 
-See [USAGE.md](USAGE.md) for detailed examples and workflows.
-
-### Basic Usage
-
 Describe your research and ask for a product decision handoff:
 
 ```
@@ -125,7 +121,6 @@ Always presents alternatives and tradeoffs, not just the "build it" case.
 | [README.md](README.md) | This file — overview and introduction |
 | [README.zh-CN.md](README.zh-CN.md) | 中文说明 |
 | [INSTALL.md](INSTALL.md) | Detailed installation instructions |
-| [USAGE.md](USAGE.md) | Usage examples and workflows |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute |
 | [.skill/SKILL.md](.skill/SKILL.md) | Full skill specification |
 
