@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code local state (if any)
+.claude/
+
+# Testing artifacts
+test-output/
+*.tmp
+*.log
+
+# Node artifacts (if testing with node)
+node_modules/
+package-lock.json
